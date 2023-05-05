@@ -1,6 +1,6 @@
 # Stanbridge Fullstack Developer Challenge
 
-This is a mono-repo containing the code for the backend and frontend of the Stanbridge Fullstack Developer Challenge.
+This is repo contains the code for the backend and frontend of the Stanbridge Fullstack Developer Challenge each one as a submodule.
 
 ## Overview
 For a single course titled “Example Course,” display a roster of students to an instructor
