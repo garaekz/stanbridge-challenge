@@ -1,0 +1,6 @@
+[submodule "stanbridge-challenge-backend"]
+	path = backend
+	url = https://github.com/garaekz/stanbridge-challenge-backend.git
+[submodule "stanbridge-challenge-frontend"]
+	path = frontend
+	url = https://github.com/garaekz/stanbridge-challenge-frontend.git
